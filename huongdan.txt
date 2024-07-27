@@ -1,0 +1,4 @@
+1.Cài đặt tomcat 9.0 (đã đính kèm)
+2.Chạy scripts sql (Đã đính kèm)
+3.Run HomeControl.java trong src
+4.Tài khoản quản trị( tk:admin, pass:admin)

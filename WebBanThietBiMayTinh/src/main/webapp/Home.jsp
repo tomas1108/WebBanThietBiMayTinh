@@ -58,7 +58,7 @@ Material Design Bootstrap Ecommerce
 
 .carousel-item:nth-child(1) {
 	background-image:
-		url('https://file.hstatic.net/200000722513/file/gearvn-xa-kho-slider.jpg ');
+		url('https://file.hstatic.net/1000026716/file/1_fanpage_cover__1__eddaac6aee0a43839fcde21bd28d1491.png');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	background-position: center center;
@@ -66,7 +66,7 @@ Material Design Bootstrap Ecommerce
 
 .carousel-item:nth-child(2) {
 	background-image:
-		url('https://file.hstatic.net/200000722513/file/loa_xin_slider_55571db8742146cd85eef265cf950b35.png');
+		url('https://mir-s3-cdn-cf.behance.net/project_modules/1400/f2e0fd133279139.61b9fe8cd8d41.png');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	background-position: center center;
@@ -290,8 +290,7 @@ Material Design Bootstrap Ecommerce
 					<div class=" col-12 col-md-12 col-lg-6">
 						<div class="card-body">
 							<h4 class="card-title show_txt"
-								style="text-align: center; font-size: 18pt; color: #b57b00;">Về
-								chúng tôi</h4>
+								style="text-align: center; font-size: 18pt; color: #b57b00;">About US</h4>
 							<h2 class="card-title show_txt"
 								style="text-align: center; font-size: 24pt;">DOTECH PC</h2>
 							<p style="text-align: center;">Uy tín lâu năm chuyên cung cấp
